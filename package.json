@@ -1,0 +1,14 @@
+{
+  "name": "carbajal_gabriel_parcial1",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^8.0.10",
+    "typescript": "^5.0.0",
+    "@types/node": "^25.6.0"
+  }
+}
